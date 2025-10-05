@@ -19,6 +19,7 @@ After training, the model was optimized using **TensorFlow Lite** for faster and
 A custom dataset was created by capturing hand gesture images using a webcam.  
 Each letter and number has its own folder containing 350–400 labeled images.
 ![Example Output](https://github.com/nazozer/ASL-Recognition/blob/main/B_letter.png)
+(https://github.com/nazozer/ASL-Recognition/blob/main/Number_6.png)
 
 ---
 
