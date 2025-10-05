@@ -53,5 +53,5 @@ The system successfully detects and classifies ASL gestures in real time.
 Predictions are displayed on the screen, allowing users to form words and numbers interactively.  
 
 > Example: When you show the hand sign for “A”, the system recognizes it and displays “A” on the screen instantly.
-
+![example output] https://github.com/nazozer/ASL-Recognition/blob/main/Number_6.png
 ---
